@@ -1,0 +1,4 @@
+stock LoadMap(playerid)
+{
+	
+}

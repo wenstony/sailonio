@@ -1,0 +1,1 @@
+{F3FF02}/time {FFFFFF}- взглянуть на часы\n{F3FF02}/report {FFFFFF}- задать вопрос администрации/пожаловаться\n{F3FF02}/setspawn {FFFFFF}- выбор дома для появления\n{F3FF02}/donate {FFFFFF}- открыть донат меню
